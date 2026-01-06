@@ -1,3 +1,10 @@
+## Research Paper
+
+📄 **Final Paper:**  
+[Predicting Short-Horizon Volatility Using Bitcoin Market Microstructure](btc_microstructure_volatility.pdf)
+
+
+
 # BTC Microstructure → Short-Horizon Volatility (Toy Study)
 
 This project explores whether simple Bitcoin market microstructure signals (order flow imbalance, bid–ask spread, and depth imbalance) have predictive power for **very short-horizon realized volatility**. The goal is educational: build a clean end-to-end pipeline from raw exchange data → features → plots → regressions → robustness checks.
