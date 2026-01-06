@@ -1,0 +1,11 @@
+# Mac junk
+.DS_Store
+
+# Data files
+*.csv
+
+# Old experiments
+old day4/
+
+# Temporary files
+*.pages
