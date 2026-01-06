@@ -56,9 +56,10 @@ This project explores whether simple Bitcoin market microstructure signals (orde
 From the project directory:
 
 ```bash
-python3 day4b_collect_synced.py
-python3 day5_features.py
-python3 day6_returns_volatility.py
-python3 day7_analysis.py
-python3 day8_regression.py
-python3 day9_robustness.py
+python3 src/day4b_collect_synced.py
+python3 src/day5_features.py
+python3 src/day6_returns_volatility.py
+python3 src/day7_analysis.py
+python3 src/day8_regression.py
+python3 src/day9_robustness.py
+
