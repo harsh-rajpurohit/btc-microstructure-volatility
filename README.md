@@ -1,7 +1,7 @@
 ## Research Paper
 
 📄 **Final Paper:**  
-[Predicting Short-Horizon Volatility Using Bitcoin Market Microstructure](btc_microstructure_volatility.pdf)
+[Predicting Short-Horizon Volatility Using Bitcoin Market Microstructure](btc_microstructure.pdf)
 
 
 
