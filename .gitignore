@@ -1,11 +1,18 @@
-# Mac junk
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # Data files
 *.csv
 
-# Old experiments
-old day4/
+# Logs
+*.log
 
-# Temporary files
-*.pages
