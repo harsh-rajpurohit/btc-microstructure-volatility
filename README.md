@@ -3,7 +3,10 @@
 📄 **Final Paper:**  
 [Predicting Short-Horizon Volatility Using Bitcoin Market Microstructure](btc_microstructure.pdf)
 
-
+## Repository Structure
+- `src/` – data processing and empirical analysis scripts
+- `figures/` – plots used in the paper
+- `btc_microstructure.pdf` – final research paper
 
 # BTC Microstructure → Short-Horizon Volatility (Toy Study)
 
@@ -37,7 +40,7 @@ This project explores whether simple Bitcoin market microstructure signals (orde
    - Lagged OFI terms
    - High-volatility vs low-volatility subsamples
 
-## Key Results (high level)
+## Key Results 
 - Relationships are **weak and noisy** in this small sample.
 - OFI shows **unstable / statistically weak** links with future RV across specifications.
 - Spread sometimes appears statistically significant, but effect sizes are **economically small**.
